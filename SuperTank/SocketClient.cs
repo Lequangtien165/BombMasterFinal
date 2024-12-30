@@ -16,6 +16,7 @@ using SuperTank.Objects;
 using SuperTank.General;
 using static SuperTank.SocketClient;
 using System.Windows.Forms;
+using System.Runtime.Remoting.Metadata.W3cXsd2001;
 
 namespace SuperTank
 {
@@ -61,8 +62,9 @@ namespace SuperTank
 
 
         // Kết nối đến server
-        public static void ConnectToServer(System.Net.IPEndPoint serverEP)
+        public static void ConnectToServer(IPEndPoint serverEP)
         {
+            serverEP = new IPEndPoint(IPAddress.Parse("192.168.167.39"), 8989);
             clientSocket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
             clientSocket.Connect(serverEP);
             receiveThread = new Thread(ReceiveData);
@@ -326,15 +328,32 @@ namespace SuperTank
                     if (!lobby.PlayersName.Contains(playerList[i]))
                     {
                         lobby.PlayersName.Add(playerList[i]);
-                        lobby.Players.Add(new SuperTank.Objects.PlayerTank()
+                        bool isReady;
+                        if (bool.TryParse(readyPlayerList[i], out isReady))
                         {
-                            Name = playerList[i],
-                            IsReady = bool.Parse(readyPlayerList[i])
-                        });
+                            lobby.Players.Add(new SuperTank.Objects.PlayerTank()
+                            {
+                                Name = playerList[i],
+                                IsReady = isReady
+                            });
+                        }
+                        else
+                        {
+                            // Handle invalid boolean value case
+                            lobby.Players.Add(new SuperTank.Objects.PlayerTank()
+                            {
+                                Name = playerList[i],
+                                IsReady = false // or some default value
+                            });
+                        }
                     }
                     else
                     {
-                        lobby.Players[i].IsReady = bool.Parse(readyPlayerList[i]);
+                        bool isReady;
+                        if (bool.TryParse(readyPlayerList[i], out isReady))
+                        {
+                            lobby.Players[i].IsReady = isReady;
+                        }
                     }
                 }
             }

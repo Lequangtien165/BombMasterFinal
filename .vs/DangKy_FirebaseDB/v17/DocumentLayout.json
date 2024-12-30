@@ -7,12 +7,24 @@
       "RelativeMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|solutionrelative:supertank\\socketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\supertank\\windowsforms\\frmgamemulti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|solutionrelative:supertank\\windowsforms\\frmgamemulti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A09795AE-9E38-4F04-8BD6-3380D5C05642}|DangKy_FirebaseDB\\SinIn_Up.csproj|C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\dangky_firebasedb\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A09795AE-9E38-4F04-8BD6-3380D5C05642}|DangKy_FirebaseDB\\SinIn_Up.csproj|solutionrelative:dangky_firebasedb\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85CD2719-5683-4238-855C-15F5994941C3}|ServerSocket\\ServerSocket.csproj|c:\\users\\kwebl\\source\\repos\\bombmaster10\\bombmaster10\\doannhom10\\serversocket\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85CD2719-5683-4238-855C-15F5994941C3}|ServerSocket\\ServerSocket.csproj|solutionrelative:serversocket\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CD2719-5683-4238-855C-15F5994941C3}|ServerSocket\\ServerSocket.csproj|C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\serversocket\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85CD2719-5683-4238-855C-15F5994941C3}|ServerSocket\\ServerSocket.csproj|solutionrelative:serversocket\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\supertank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|solutionrelative:supertank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\supertank\\windowsforms\\frmgamemulti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|solutionrelative:supertank\\windowsforms\\frmgamemulti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\supertank\\win.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,16 +59,8 @@
       "RelativeMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|solutionrelative:supertank\\win.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85CD2719-5683-4238-855C-15F5994941C3}|ServerSocket\\ServerSocket.csproj|C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\serversocket\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{85CD2719-5683-4238-855C-15F5994941C3}|ServerSocket\\ServerSocket.csproj|solutionrelative:serversocket\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A09795AE-9E38-4F04-8BD6-3380D5C05642}|DangKy_FirebaseDB\\SinIn_Up.csproj|C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\dangky_firebasedb\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A09795AE-9E38-4F04-8BD6-3380D5C05642}|DangKy_FirebaseDB\\SinIn_Up.csproj|solutionrelative:dangky_firebasedb\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A09795AE-9E38-4F04-8BD6-3380D5C05642}|DangKy_FirebaseDB\\SinIn_Up.csproj|C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\dangky_firebasedb\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A09795AE-9E38-4F04-8BD6-3380D5C05642}|DangKy_FirebaseDB\\SinIn_Up.csproj|solutionrelative:dangky_firebasedb\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A09795AE-9E38-4F04-8BD6-3380D5C05642}|DangKy_FirebaseDB\\SinIn_Up.csproj|C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\dangky_firebasedb\\datlaimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -81,7 +85,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 22,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Bookmark",
@@ -137,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Win.Designer.cs",
               "DocumentMoniker": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\SuperTank\\Win.Designer.cs",
               "RelativeDocumentMoniker": "SuperTank\\Win.Designer.cs",
@@ -149,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "frmGameMulti.cs",
               "DocumentMoniker": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\SuperTank\\WindowsForms\\frmGameMulti.cs",
               "RelativeDocumentMoniker": "SuperTank\\WindowsForms\\frmGameMulti.cs",
@@ -161,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "frmGameMulti.cs [Design]",
               "DocumentMoniker": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\SuperTank\\WindowsForms\\frmGameMulti.cs",
               "RelativeDocumentMoniker": "SuperTank\\WindowsForms\\frmGameMulti.cs",
@@ -172,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Server.Designer.cs",
               "DocumentMoniker": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\ServerSocket\\Server.Designer.cs",
               "RelativeDocumentMoniker": "ServerSocket\\Server.Designer.cs",
@@ -184,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Lose.Designer.cs",
               "DocumentMoniker": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\SuperTank\\Lose.Designer.cs",
               "RelativeDocumentMoniker": "SuperTank\\Lose.Designer.cs",
@@ -196,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Lose.cs",
               "DocumentMoniker": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\SuperTank\\Lose.cs",
               "RelativeDocumentMoniker": "SuperTank\\Lose.cs",
@@ -208,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Lose.cs [Design]",
               "DocumentMoniker": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\SuperTank\\Lose.cs",
               "RelativeDocumentMoniker": "SuperTank\\Lose.cs",
@@ -219,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Win.cs",
               "DocumentMoniker": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\SuperTank\\Win.cs",
               "RelativeDocumentMoniker": "SuperTank\\Win.cs",
@@ -231,7 +235,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
+              "Title": "SocketClient.cs",
+              "DocumentMoniker": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\SuperTank\\SocketClient.cs",
+              "RelativeDocumentMoniker": "SuperTank\\SocketClient.cs",
+              "ToolTip": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\SuperTank\\SocketClient.cs",
+              "RelativeToolTip": "SuperTank\\SocketClient.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAnwEIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:12:48.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\SuperTank\\Program.cs",
+              "RelativeDocumentMoniker": "SuperTank\\Program.cs",
+              "ToolTip": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\SuperTank\\Program.cs",
+              "RelativeToolTip": "SuperTank\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:19:14.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Win.cs [Design]",
               "DocumentMoniker": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\SuperTank\\Win.cs",
               "RelativeDocumentMoniker": "SuperTank\\Win.cs",
@@ -242,44 +271,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SocketClient.cs",
-              "DocumentMoniker": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\SuperTank\\SocketClient.cs",
-              "RelativeDocumentMoniker": "SuperTank\\SocketClient.cs",
-              "ToolTip": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\SuperTank\\SocketClient.cs",
-              "RelativeToolTip": "SuperTank\\SocketClient.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAAAFIAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T03:12:48.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Server.cs",
               "DocumentMoniker": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\ServerSocket\\Server.cs",
               "RelativeDocumentMoniker": "ServerSocket\\Server.cs",
               "ToolTip": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\ServerSocket\\Server.cs",
               "RelativeToolTip": "ServerSocket\\Server.cs",
-              "ViewState": "AgIAALYBAAAAAAAAAAAiwL8BAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAwwDUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T03:10:39.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "Server.cs [Design]",
               "DocumentMoniker": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\ServerSocket\\Server.cs",
               "RelativeDocumentMoniker": "ServerSocket\\Server.cs",
-              "ToolTip": "C:\\Users\\THANG\\source\\repos\\DOANNHOM10\\DOANNHOM10\\ServerSocket\\Server.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\THANG\\source\\repos\\DOANNHOM10\\DOANNHOM10\\ServerSocket\\Server.cs [Design]",
+              "ToolTip": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\ServerSocket\\Server.cs [Design]",
+              "RelativeToolTip": "ServerSocket\\Server.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T03:10:27.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "DangKy.cs",
               "DocumentMoniker": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\DangKy_FirebaseDB\\DangKy.cs",
               "RelativeDocumentMoniker": "DangKy_FirebaseDB\\DangKy.cs",
@@ -291,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "SanhCho.cs [Design]",
               "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\EPL7\\Bombmaster4-main\\DangKy_FirebaseDB\\SanhCho.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\THANG\\source\\repos\\EPL7\\Bombmaster4-main\\DangKy_FirebaseDB\\SanhCho.cs",
@@ -302,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "QuenMatKhau.cs [Design]",
               "DocumentMoniker": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\DangKy_FirebaseDB\\QuenMatKhau.cs",
               "RelativeDocumentMoniker": "DangKy_FirebaseDB\\QuenMatKhau.cs",
@@ -313,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "DatLaiMatKhau.cs [Design]",
               "DocumentMoniker": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\DangKy_FirebaseDB\\DatLaiMatKhau.cs",
               "RelativeDocumentMoniker": "DangKy_FirebaseDB\\DatLaiMatKhau.cs",
@@ -324,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "DangNhap.cs [Design]",
               "DocumentMoniker": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\DangKy_FirebaseDB\\DangNhap.cs",
               "RelativeDocumentMoniker": "DangKy_FirebaseDB\\DangNhap.cs",
@@ -335,12 +351,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
               "Title": "DangKy.cs [Design]",
               "DocumentMoniker": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\DangKy_FirebaseDB\\DangKy.cs",
               "RelativeDocumentMoniker": "DangKy_FirebaseDB\\DangKy.cs",
-              "ToolTip": "C:\\Users\\THANG\\source\\repos\\DOANNHOM10\\DOANNHOM10\\DangKy_FirebaseDB\\DangKy.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\THANG\\source\\repos\\DOANNHOM10\\DOANNHOM10\\DangKy_FirebaseDB\\DangKy.cs [Design]",
+              "ToolTip": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\DangKy_FirebaseDB\\DangKy.cs [Design]",
+              "RelativeToolTip": "DangKy_FirebaseDB\\DangKy.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-29T03:38:49.299Z"
             }
