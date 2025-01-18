@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\Server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0D5D1AE-96CD-49A5-9425-8A70306A932C}|Server\\Server.csproj|c:\\users\\kwebl\\source\\repos\\bombmaster10\\bombmaster10\\doannhom10\\server\\server\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D5D1AE-96CD-49A5-9425-8A70306A932C}|Server\\Server.csproj|solutionrelative:server\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0D5D1AE-96CD-49A5-9425-8A70306A932C}|Server\\Server.csproj|c:\\users\\kwebl\\source\\repos\\bombmaster10\\bombmaster10\\doannhom10\\server\\server\\services\\ifirebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D5D1AE-96CD-49A5-9425-8A70306A932C}|Server\\Server.csproj|solutionrelative:server\\services\\ifirebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B0D5D1AE-96CD-49A5-9425-8A70306A932C}|Server\\Server.csproj|c:\\users\\kwebl\\source\\repos\\bombmaster10\\bombmaster10\\doannhom10\\server\\server\\services\\firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0D5D1AE-96CD-49A5-9425-8A70306A932C}|Server\\Server.csproj|solutionrelative:server\\services\\firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0D5D1AE-96CD-49A5-9425-8A70306A932C}|Server\\Server.csproj|c:\\users\\kwebl\\source\\repos\\bombmaster10\\bombmaster10\\doannhom10\\server\\server\\models\\skbitmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D5D1AE-96CD-49A5-9425-8A70306A932C}|Server\\Server.csproj|solutionrelative:server\\models\\skbitmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0D5D1AE-96CD-49A5-9425-8A70306A932C}|Server\\Server.csproj|c:\\users\\kwebl\\source\\repos\\bombmaster10\\bombmaster10\\doannhom10\\server\\server\\models\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D5D1AE-96CD-49A5-9425-8A70306A932C}|Server\\Server.csproj|solutionrelative:server\\models\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0D5D1AE-96CD-49A5-9425-8A70306A932C}|Server\\Server.csproj|c:\\users\\kwebl\\source\\repos\\bombmaster10\\bombmaster10\\doannhom10\\server\\server\\services\\ifirebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D5D1AE-96CD-49A5-9425-8A70306A932C}|Server\\Server.csproj|solutionrelative:server\\services\\ifirebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,63 +74,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SKBitmap.cs",
-              "DocumentMoniker": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\Server\\Server\\Models\\SKBitmap.cs",
-              "RelativeDocumentMoniker": "Server\\Models\\SKBitmap.cs",
-              "ToolTip": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\Server\\Server\\Models\\SKBitmap.cs",
-              "RelativeToolTip": "Server\\Models\\SKBitmap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T03:09:33.455Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "IFirebaseService.cs",
               "DocumentMoniker": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\Server\\Server\\Services\\IFirebaseService.cs",
               "RelativeDocumentMoniker": "Server\\Services\\IFirebaseService.cs",
               "ToolTip": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\Server\\Server\\Services\\IFirebaseService.cs",
               "RelativeToolTip": "Server\\Services\\IFirebaseService.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAiwDsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T03:09:31.051Z"
+              "WhenOpened": "2025-01-17T07:53:00.679Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DangKy.cs",
-              "DocumentMoniker": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\Server\\Server\\Models\\DangKy.cs",
-              "RelativeDocumentMoniker": "Server\\Models\\DangKy.cs",
-              "ToolTip": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\Server\\Server\\Models\\DangKy.cs",
-              "RelativeToolTip": "Server\\Models\\DangKy.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T15:23:12.676Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "FirebaseService.cs",
               "DocumentMoniker": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\Server\\Server\\Services\\FirebaseService.cs",
               "RelativeDocumentMoniker": "Server\\Services\\FirebaseService.cs",
               "ToolTip": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\Server\\Server\\Services\\FirebaseService.cs",
               "RelativeToolTip": "Server\\Services\\FirebaseService.cs",
-              "ViewState": "AgIAAL8AAAAAAAAAAAAUwNYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T15:21:14.975Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\Server\\Server\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Server\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\kwebl\\source\\repos\\BombMaster10\\BombMaster10\\DOANNHOM10\\Server\\Server\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Server\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAD4vzIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T15:16:59.438Z",
+              "WhenOpened": "2025-01-17T07:50:27.34Z",
               "EditorCaption": ""
             }
           ]
