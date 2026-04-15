@@ -1,7 +1,4 @@
 <!-- LOGO VÀ TIÊU ĐỀ -->
-<p align="center">
-  <img src="https://github.com/Lequangtien165/BombMasterFinal/raw/main/sourceanh/icon.png?raw=true" alt="BombMaster Logo" width="200">
-</p>
 
 <h1 align="center">💣 BombMaster</h1>
 <p align="center">
